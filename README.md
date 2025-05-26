@@ -36,5 +36,11 @@ This project demonstrates how to perform end-to-end **data cleaning, exploration
 ---
 
 ## 🛠️ Project Structure
+📁 netflix-data-exploration/
+├── netflix_titles.csv
+├── netflix_analysis.ipynb
+├── netflix.db
+├── netflix_report.html # optional: generated using ydata-profiling
+└── README.md
 
 
